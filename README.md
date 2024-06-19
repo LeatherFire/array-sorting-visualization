@@ -37,9 +37,9 @@ Make sure you have Python installed. You can download it from [python.org](https
 
 ### Usage
 
-Run the `main.py` file to start the application:
+Run the `sortintry.py` file to start the application:
 ```bash
-python main.py
+python sortintry.py
 ```
 
 ## 🖼️ Screenshot
